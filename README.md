@@ -1,6 +1,8 @@
 testDeck
 ========
 
+update the readme.md after fork.
+
 This is a test deck for publishing a slidify document.
 
 Fork this repo.
